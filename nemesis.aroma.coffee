@@ -788,7 +788,7 @@ module.exports =
 		}
 		{
 			name: "Markdown: Raw Block fenced"
-			scope: "markup.raw.block.fenced.markdown"
+			scope: "markup.raw.block.fenced.markdown, meta.code.raw.confluence"
 			settings:
 				background: "#222"
 				foreground: "#ffffff"
